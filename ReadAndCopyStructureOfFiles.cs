@@ -14,7 +14,7 @@ namespace ReadFiles
             FileInfo[] files = directoryInfo.GetFiles();
             if (dirs.Length != 0) ReadFromDir(dirs, dirTrgt);
             if (files.Length != 0) ReadFromSrc(files, dirTrgt);
-            if (dirs.Length != 0 || files.Length != 0) ZipFile.CreateFromDirectory($"{dirTrgt}", "C:\\C#\\Engeniy\\myZip\\myZip.zip");
+            if (dirs.Length != 0 || files.Length != 0) ZipFile.CreateFromDirectory($"{dirTrgt}", "C:\\myZip\\myZip.zip");
         }
         static void ReadFromDir(DirectoryInfo[] dirs, string dirTrgt)
         {
