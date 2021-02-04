@@ -1,6 +1,0 @@
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\bin\Debug\AreaCalculator.Figure.dll
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\bin\Debug\AreaCalculator.Figure.pdb
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\obj\Debug\AreaCalculator.Figure.csproj.CoreCompileInputs.cache
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\obj\Debug\AreaCalculator.Figure.dll
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\obj\Debug\AreaCalculator.Figure.pdb
-C:\Users\apetukhov\source\repos\AreaCalculator\AreaCalculator.Figure\obj\Debug\AreaCalculator.Figure.csprojAssemblyReference.cache
